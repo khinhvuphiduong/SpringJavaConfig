@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="TemplateWebProject">
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/web" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/source/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/source/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/source/test/java/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/source/test/java/unit"/>
+        <property name="java-output-path" value="/TemplateWebProject/build/classes"/>
+        <property name="context-root" value="springjavaconfig"/>
+    </wb-module>
+</project-modules>
